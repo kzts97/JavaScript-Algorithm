@@ -1,5 +1,5 @@
 function solution(numbers) {
-var answer =0;
+
 let sum =0;
 let cnt = 0;
 
